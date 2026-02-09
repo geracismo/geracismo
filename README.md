@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hi everyone!</h2>
+<h1 align="center">Hi everyone!</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 > [!IMPORTANT]
-> I'm passionate and curious Full Stack software engineer and AI specialist.<br>I love to explore innovative ideas and ways to empower AI and ML in a day life tasks. Recently I worked on an anomaly detection system with a extremely quantized neural network as core. Everything adapted and deployed on a programmable AI-accelerated ASIC switch. You can find it [here](https://github.com/geracismo/binocular).
+> I'm passionate and curious Full Stack software engineer and AI specialist.<br>I love to explore innovative ideas and ways to empower AI and ML in a day life tasks. Recently I worked on an anomaly detection system with a extremely quantized neural network as core. Everything adapted and deployed on a programmable AI-accelerated ASIC switch. You can find it [here] (if I published it already eheh)(https://github.com/geracismo/binocular).
 
 ###
 
