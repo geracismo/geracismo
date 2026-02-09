@@ -4,7 +4,15 @@
 
 ###
 
-<h2 align="center">Hi everyone!</h2>
+<h3 align="center">Hi everyone!</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/simone-geraci"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
+  <a href="https://nrgslu.slack.com/team/U08H2HPRRBK"><img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  /></a>
+  <a href="mailto:sgeraci.dev@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
+</div>
 
 ###
 > [!IMPORTANT]
@@ -82,14 +90,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/simone-geraci"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
-  <a href="https://nrgslu.slack.com/team/U08H2HPRRBK"><img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  /></a>
-  <a href="mailto:sgeraci.dev@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
 </div>
 
 ###
