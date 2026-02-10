@@ -12,11 +12,12 @@
   <a href="https://www.linkedin.com/in/simone-geraci"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
   <a href="https://nrgslu.slack.com/team/U08H2HPRRBK"><img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  /></a>
   <a href="mailto:sgeraci.dev@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
+  <a href="https://drive.google.com/file/d/1xMQ34hh_hmSN3bnVe9EhLuQJhPPCUxrm/view?usp=share_link"> <img src="https://img.shields.io/static/v1?message=resume&label=&color=AFE1AF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume"  /></a>
 </div>
 
 ###
 > [!IMPORTANT]
-> I'm passionate and curious Full Stack software engineer and AI specialist.<br>I love to explore innovative ideas and ways to empower AI and ML in a day life tasks. Recently I worked on an anomaly detection system with a extremely quantized neural network as core. Everything adapted and deployed on a programmable AI-accelerated ASIC switch. You can find it [here] (if I published it already eheh)(https://github.com/geracismo/binocular).
+> I'm passionate and curious Full Stack software engineer and AI specialist.<br>I love to explore innovative ideas and ways to empower AI and ML in a day life tasks. Recently I worked on an anomaly detection system with a extremely quantized neural network as core. Everything adapted and deployed on a programmable AI-accelerated ASIC switch. You can find it [here](https://github.com/geracismo/binocular) (if I published it already eheh).
 
 ###
 
@@ -92,6 +93,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geracismo&layout=compact&stats_format=bytes&theme=aura)" height="200" alt="stats"  />
+</div>
+  
 ###
 
 <div>
